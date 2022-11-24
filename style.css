@@ -1,0 +1,10 @@
+.bg-primary{ background-color: black;}
+
+.containter{
+    background-color: antiquewhite;
+    border-radius: 25px;
+    }
+.btn btn-primary{
+    width:100%;
+    height: 100%;
+}
